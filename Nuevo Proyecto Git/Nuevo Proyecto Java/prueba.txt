@@ -5,6 +5,10 @@ Esto es código
 Esto es una prueba para hacer el paso 28
 
 
+<<<<<<< HEAD
 
 
 Esta es la rama 2
+=======
+Esto es baseDatos 
+>>>>>>> feature/baseDatos
